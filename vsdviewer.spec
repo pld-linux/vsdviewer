@@ -1,4 +1,4 @@
-Summary:	VSDviewer
+Summary:	VSDviewer - Viewer for Visio VSD/VSS files.
 Name:		vsdviewer
 Version:	0.0.13	
 Release:	0.1
